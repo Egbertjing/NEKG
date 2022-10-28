@@ -1,0 +1,12 @@
+INFO - 
+--------- Loss ---------
+INFO - Name : nll
+INFO - eta : 2
+INFO - 
+------ Optimizer -----
+INFO - Name : adam
+INFO - lr : 0.0005
+INFO - 
+------ Initializer -----
+INFO - Name : xavier
+INFO - uniform : False
